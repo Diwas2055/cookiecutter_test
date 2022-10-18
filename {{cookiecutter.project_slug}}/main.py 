@@ -1,0 +1,4 @@
+"""Main module."""
+
+name=cookiecutter.project_name
+print("name: ", name)
